@@ -30,6 +30,6 @@ public final class MD5 {
 	}
 
 	public static void main(String[] a) {
-		System.out.println(encrypt("ip36011"));
+		System.out.println(encrypt("ip36011000"));
 	}
 }
